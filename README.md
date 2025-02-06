@@ -1,11 +1,23 @@
 <h1 align="center">¡Hola! 👋 Soy Stalyn Londo</h1>
 <h3 align="center">Ingeniero de Software | Desarrollador Web Junior</h3>
+<p align="center">
+  <a href="https://www.facebook.com/StalynOdd" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/yaibeehba__am/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="[Enlace a tu LinkedIn]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
----
+
 
 ### Sobre mí 👨‍💻
 
 Soy un desarrollador web junior apasionado por la tecnología y el desarrollo de software. Recién graduado como Ingeniero de Software, busco mi primera oportunidad laboral para aplicar mis conocimientos y seguir creciendo profesionalmente.
+
 
 - 🎓 **Ingeniero de Software** 
 - 💻 Conocimientos en desarrollo web tanto **Frontend** como **Backend**
@@ -31,28 +43,11 @@ Soy un desarrollador web junior apasionado por la tecnología y el desarrollo de
 
 | **Título** | **Institución** | **Año** |
 |------------|-----------------|---------|
-| 🎓 Ingeniería de Software | [Escuela Superior Politecnica de Chimborazo] | 2024 |
+| 🎓 Ingeniería de Software | Escuela Superior Politecnica de Chimborazo | 2024 |
 
 ---
 
-### Experiencia Académica 🚀
 
-Durante mi formación universitaria:
-- Desarrollé proyectos web utilizando tecnologías modernas.
-- Participé en proyectos colaborativos usando control de versiones (Git/GitHub).
-- Adquirí fundamentos sólidos en programación y metodologías ágiles.
-
----
-
-### Objetivos Profesionales 🎯
-
-- Busco una oportunidad como **desarrollador web junior** donde pueda:
-  - Aplicar mis conocimientos técnicos.
-  - Aprender de desarrolladores más experimentados.
-  - Crecer profesionalmente.
-  - Contribuir con nuevas ideas y soluciones.
-
----
 
 ### Estadísticas de GitHub 📊
 
@@ -64,24 +59,10 @@ Durante mi formación universitaria:
 
 </div>
 
----
 
-### Redes Sociales 🌐
 
-<p align="center">
-  <a href="https://www.facebook.com/StalynOdd" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://www.instagram.com/yaibeehba__am/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="[Enlace a tu LinkedIn]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YaibeehBA&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+
+
+
